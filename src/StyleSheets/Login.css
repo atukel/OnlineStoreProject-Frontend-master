@@ -1,0 +1,20 @@
+.loginButton{
+    background-color: #1bc43d;
+    border: none;
+    margin-top: 5pxpx;
+    padding: 10px 64px;
+    text-align: center;
+    border-radius: 24px;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.inputFields{
+    background-color: #9997a8;
+    padding: 10px 64px;
+    border-radius: 24px;
+    border: none;
+    margin-bottom: 5px;
+}
